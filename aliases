@@ -7,3 +7,4 @@ alias gs='git status'
 alias gc='git commit'
 alias ff='git pull --ff'
 alias dux='du * -cs | sort -nr | head'
+
